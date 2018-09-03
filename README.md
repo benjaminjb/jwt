@@ -1,8 +1,8 @@
 # jwt (JSON Web Token for Go)
 [![JWT Compatible](https://jwt.io/img/badge.svg)](https://jwt.io)
 
-[![Build Status](https://travis-ci.org/gbrlsnchs/jwt.svg?branch=master)](https://travis-ci.org/gbrlsnchs/jwt)
-[![Build status](https://ci.appveyor.com/api/projects/status/wqao7uvucce71jja/branch/master?svg=true)](https://ci.appveyor.com/project/gbrlsnchs/jwt/branch/master)
+[![Build Status](https://travis-ci.org/gbrlsnchs/jwt.svg?branch=v1)](https://travis-ci.org/gbrlsnchs/jwt)
+[![Build status](https://ci.appveyor.com/api/projects/status/wqao7uvucce71jja/branch/v1?svg=true)](https://ci.appveyor.com/project/gbrlsnchs/jwt/branch/v1)
 [![GoDoc](https://godoc.org/github.com/gbrlsnchs/jwt?status.svg)](https://godoc.org/github.com/gbrlsnchs/jwt)
 [![Sourcegraph](https://sourcegraph.com/github.com/gbrlsnchs/jwt/-/badge.svg)](https://sourcegraph.com/github.com/gbrlsnchs/jwt?badge)
 
